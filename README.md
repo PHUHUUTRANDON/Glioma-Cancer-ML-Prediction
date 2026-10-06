@@ -2,6 +2,8 @@
 
 This repository contains machine learning pipelines and analytical figures for predicting and analyzing Glioma Cancer biomarkers and clinical outcomes.
 
+The research is performed using published data from GEO. No clinical experiments are performed.
+
 ## Repository Structure
 
 ```text
